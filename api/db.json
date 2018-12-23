@@ -1,0 +1,49 @@
+{
+  "recipes": [
+    {
+      "title": "Turkey Tenderloins",
+      "ingredients": [
+        "1 pound turkey tenderloins",
+        "3 tablespoons soy sauce",
+        "1 tablespoon Dijon-style prepared mustard",
+        "2 teaspoons dried rosemary, crushed"
+      ],
+      "directions": [
+        "Place the turkey tenderloins in a sealable plastic bag and set aside.",
+        "In a small bowl combine the soy sauce, mustard and rosemary. Pour over turkey, seal bag and shake to coat. Marinate in the refrigerator for 1 to 4 hours shaking once or twice.",
+        "Preheat oven on the broiler setting. Remove the turkey from the marinade and place on the rack in the broiler pan. Broil 4 inches from the heat, turning once, for 20 to 22 minutes or until meat is cooked through and when pierced with a fork the juices run clear. Slice and serve with Cranberry Chutney."
+      ],
+      "id": 1
+    },
+    {
+      "title": "Salmon with Brown Sugar Glaze",
+      "ingredients": [
+        "4 (6 ounce) boneless salmon fillets",
+        "1/4 cup packed light brown sugar",
+        "2 tablespoons Dijon mustard",
+        "salt and ground black pepper to taste"
+      ],
+      "directions": [
+        "Preheat the oven's broiler and set the oven rack at about 6 inches from the heat source; prepare the rack of a broiler pan with cooking spray.",
+        "Season the salmon with salt and pepper and arrange onto the prepared broiler pan. Whisk together the brown sugar and Dijon mustard in a small bowl; spoon mixture evenly onto top of salmon fillets.",
+        "Cook under the preheated broiler until the fish flakes easily with a fork, 10 to 15 minutes."
+      ],
+      "id": 2
+    },
+    {
+      "title": "Broiled Scallops",
+      "ingredients": [
+        "1 1/2 pounds bay scallops",
+        "1 tablespoon garlic salt",
+        "2 tablespoons butter, melted",
+        "2 tablespoons lemon juice"
+      ],
+      "directions": [
+        "Turn broiler on. ",
+        "Rinse scallop and place in a shallow baking pan. Sprinkle with garlic salt, melted butter or margarine and lemon juice. ",
+        "Broil 6 to 8 minutes or until scallops start to turn golden. Remove from oven and serve with extra melted butter or margarine on the side for dipping. "
+      ],
+      "id": 3
+    }
+  ]
+}
